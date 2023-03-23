@@ -1,0 +1,698 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F6A1B95128A5542E00832511 /* 魔王魂  ピアノ1-5ソ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B94528A5542C00832511 /* 魔王魂  ピアノ1-5ソ.mp3 */; };
+		F6A1B95228A5542E00832511 /* 魔王魂  ピアノ1-3ミ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B94628A5542C00832511 /* 魔王魂  ピアノ1-3ミ.mp3 */; };
+		F6A1B95328A5542E00832511 /* 魔王魂  ピアノ1-4ファ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B94728A5542C00832511 /* 魔王魂  ピアノ1-4ファ.mp3 */; };
+		F6A1B95428A5542E00832511 /* 魔王魂  ピアノ1-Cコード.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B94828A5542C00832511 /* 魔王魂  ピアノ1-Cコード.mp3 */; };
+		F6A1B95528A5542E00832511 /* 魔王魂  ピアノ1-Fコード.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B94928A5542C00832511 /* 魔王魂  ピアノ1-Fコード.mp3 */; };
+		F6A1B95628A5542E00832511 /* 魔王魂  ピアノ1-Gコード.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B94A28A5542C00832511 /* 魔王魂  ピアノ1-Gコード.mp3 */; };
+		F6A1B95728A5542E00832511 /* 魔王魂  ピアノ1-6ラ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B94B28A5542D00832511 /* 魔王魂  ピアノ1-6ラ.mp3 */; };
+		F6A1B95828A5542E00832511 /* 魔王魂  ピアノ1-1ド.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B94C28A5542D00832511 /* 魔王魂  ピアノ1-1ド.mp3 */; };
+		F6A1B95928A5542E00832511 /* 魔王魂  ピアノ1-2レ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B94D28A5542D00832511 /* 魔王魂  ピアノ1-2レ.mp3 */; };
+		F6A1B95A28A5542E00832511 /* 魔王魂  ピアノ1-8ド.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B94E28A5542D00832511 /* 魔王魂  ピアノ1-8ド.mp3 */; };
+		F6A1B95B28A5542E00832511 /* 魔王魂  ピアノ1-7シ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B94F28A5542D00832511 /* 魔王魂  ピアノ1-7シ.mp3 */; };
+		F6A1B95C28A5542E00832511 /* 魔王魂  ピアノ1-Amコード.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B95028A5542E00832511 /* 魔王魂  ピアノ1-Amコード.mp3 */; };
+		F6A1B95E28A60D9E00832511 /* adpDSC_3882.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6A1B95D28A60D9E00832511 /* adpDSC_3882.jpg */; };
+		F6EC621228A20C6500D96EF3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC621128A20C6500D96EF3 /* AppDelegate.swift */; };
+		F6EC621428A20C6500D96EF3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC621328A20C6500D96EF3 /* SceneDelegate.swift */; };
+		F6EC621628A20C6500D96EF3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC621528A20C6500D96EF3 /* ViewController.swift */; };
+		F6EC621928A20C6500D96EF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6EC621728A20C6500D96EF3 /* Main.storyboard */; };
+		F6EC621C28A20C6600D96EF3 /* random_piano.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F6EC621A28A20C6600D96EF3 /* random_piano.xcdatamodeld */; };
+		F6EC621E28A20C7700D96EF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6EC621D28A20C7700D96EF3 /* Assets.xcassets */; };
+		F6EC622128A20C7700D96EF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6EC621F28A20C7700D96EF3 /* LaunchScreen.storyboard */; };
+		F6EC622C28A20C7700D96EF3 /* random_pianoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC622B28A20C7700D96EF3 /* random_pianoTests.swift */; };
+		F6EC623628A20C7700D96EF3 /* random_pianoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC623528A20C7700D96EF3 /* random_pianoUITests.swift */; };
+		F6EC623828A20C7700D96EF3 /* random_pianoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC623728A20C7700D96EF3 /* random_pianoUITestsLaunchTests.swift */; };
+		F6EC624B28A212C200D96EF3 /* 魔王魂  ピアノ2-1ド.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6EC624428A212C100D96EF3 /* 魔王魂  ピアノ2-1ド.mp3 */; };
+		F6EC624C28A212C200D96EF3 /* 魔王魂  ピアノ2-5ソ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6EC624528A212C100D96EF3 /* 魔王魂  ピアノ2-5ソ.mp3 */; };
+		F6EC624D28A212C200D96EF3 /* 魔王魂  ピアノ2-7シ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6EC624628A212C100D96EF3 /* 魔王魂  ピアノ2-7シ.mp3 */; };
+		F6EC624E28A212C200D96EF3 /* 魔王魂  ピアノ2-6ラ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6EC624728A212C100D96EF3 /* 魔王魂  ピアノ2-6ラ.mp3 */; };
+		F6EC624F28A212C200D96EF3 /* 魔王魂  ピアノ2-2レ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6EC624828A212C100D96EF3 /* 魔王魂  ピアノ2-2レ.mp3 */; };
+		F6EC625028A212C200D96EF3 /* 魔王魂  ピアノ2-3ミ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6EC624928A212C100D96EF3 /* 魔王魂  ピアノ2-3ミ.mp3 */; };
+		F6EC625128A212C200D96EF3 /* 魔王魂  ピアノ2-4ファ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6EC624A28A212C100D96EF3 /* 魔王魂  ピアノ2-4ファ.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F6EC622828A20C7700D96EF3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F6EC620628A20C6500D96EF3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F6EC620D28A20C6500D96EF3;
+			remoteInfo = random_piano;
+		};
+		F6EC623228A20C7700D96EF3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F6EC620628A20C6500D96EF3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F6EC620D28A20C6500D96EF3;
+			remoteInfo = random_piano;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F6A1B94528A5542C00832511 /* 魔王魂  ピアノ1-5ソ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ1-5ソ.mp3"; sourceTree = "<group>"; };
+		F6A1B94628A5542C00832511 /* 魔王魂  ピアノ1-3ミ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ1-3ミ.mp3"; sourceTree = "<group>"; };
+		F6A1B94728A5542C00832511 /* 魔王魂  ピアノ1-4ファ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ1-4ファ.mp3"; sourceTree = "<group>"; };
+		F6A1B94828A5542C00832511 /* 魔王魂  ピアノ1-Cコード.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ1-Cコード.mp3"; sourceTree = "<group>"; };
+		F6A1B94928A5542C00832511 /* 魔王魂  ピアノ1-Fコード.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ1-Fコード.mp3"; sourceTree = "<group>"; };
+		F6A1B94A28A5542C00832511 /* 魔王魂  ピアノ1-Gコード.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ1-Gコード.mp3"; sourceTree = "<group>"; };
+		F6A1B94B28A5542D00832511 /* 魔王魂  ピアノ1-6ラ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ1-6ラ.mp3"; sourceTree = "<group>"; };
+		F6A1B94C28A5542D00832511 /* 魔王魂  ピアノ1-1ド.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ1-1ド.mp3"; sourceTree = "<group>"; };
+		F6A1B94D28A5542D00832511 /* 魔王魂  ピアノ1-2レ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ1-2レ.mp3"; sourceTree = "<group>"; };
+		F6A1B94E28A5542D00832511 /* 魔王魂  ピアノ1-8ド.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ1-8ド.mp3"; sourceTree = "<group>"; };
+		F6A1B94F28A5542D00832511 /* 魔王魂  ピアノ1-7シ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ1-7シ.mp3"; sourceTree = "<group>"; };
+		F6A1B95028A5542E00832511 /* 魔王魂  ピアノ1-Amコード.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ1-Amコード.mp3"; sourceTree = "<group>"; };
+		F6A1B95D28A60D9E00832511 /* adpDSC_3882.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = adpDSC_3882.jpg; sourceTree = "<group>"; };
+		F6EC620E28A20C6500D96EF3 /* random_piano.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = random_piano.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F6EC621128A20C6500D96EF3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F6EC621328A20C6500D96EF3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		F6EC621528A20C6500D96EF3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F6EC621828A20C6500D96EF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F6EC621B28A20C6600D96EF3 /* random_piano.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = random_piano.xcdatamodel; sourceTree = "<group>"; };
+		F6EC621D28A20C7700D96EF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F6EC622028A20C7700D96EF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F6EC622228A20C7700D96EF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6EC622728A20C7700D96EF3 /* random_pianoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = random_pianoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F6EC622B28A20C7700D96EF3 /* random_pianoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = random_pianoTests.swift; sourceTree = "<group>"; };
+		F6EC623128A20C7700D96EF3 /* random_pianoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = random_pianoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F6EC623528A20C7700D96EF3 /* random_pianoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = random_pianoUITests.swift; sourceTree = "<group>"; };
+		F6EC623728A20C7700D96EF3 /* random_pianoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = random_pianoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F6EC624428A212C100D96EF3 /* 魔王魂  ピアノ2-1ド.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ2-1ド.mp3"; sourceTree = "<group>"; };
+		F6EC624528A212C100D96EF3 /* 魔王魂  ピアノ2-5ソ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ2-5ソ.mp3"; sourceTree = "<group>"; };
+		F6EC624628A212C100D96EF3 /* 魔王魂  ピアノ2-7シ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ2-7シ.mp3"; sourceTree = "<group>"; };
+		F6EC624728A212C100D96EF3 /* 魔王魂  ピアノ2-6ラ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ2-6ラ.mp3"; sourceTree = "<group>"; };
+		F6EC624828A212C100D96EF3 /* 魔王魂  ピアノ2-2レ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ2-2レ.mp3"; sourceTree = "<group>"; };
+		F6EC624928A212C100D96EF3 /* 魔王魂  ピアノ2-3ミ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ2-3ミ.mp3"; sourceTree = "<group>"; };
+		F6EC624A28A212C100D96EF3 /* 魔王魂  ピアノ2-4ファ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "魔王魂  ピアノ2-4ファ.mp3"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F6EC620B28A20C6500D96EF3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F6EC622428A20C7700D96EF3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F6EC622E28A20C7700D96EF3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F6EC620528A20C6500D96EF3 = {
+			isa = PBXGroup;
+			children = (
+				F6EC621028A20C6500D96EF3 /* random_piano */,
+				F6EC622A28A20C7700D96EF3 /* random_pianoTests */,
+				F6EC623428A20C7700D96EF3 /* random_pianoUITests */,
+				F6EC620F28A20C6500D96EF3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F6EC620F28A20C6500D96EF3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F6EC620E28A20C6500D96EF3 /* random_piano.app */,
+				F6EC622728A20C7700D96EF3 /* random_pianoTests.xctest */,
+				F6EC623128A20C7700D96EF3 /* random_pianoUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F6EC621028A20C6500D96EF3 /* random_piano */ = {
+			isa = PBXGroup;
+			children = (
+				F6EC624528A212C100D96EF3 /* 魔王魂  ピアノ2-5ソ.mp3 */,
+				F6EC624428A212C100D96EF3 /* 魔王魂  ピアノ2-1ド.mp3 */,
+				F6EC624628A212C100D96EF3 /* 魔王魂  ピアノ2-7シ.mp3 */,
+				F6A1B94C28A5542D00832511 /* 魔王魂  ピアノ1-1ド.mp3 */,
+				F6A1B94D28A5542D00832511 /* 魔王魂  ピアノ1-2レ.mp3 */,
+				F6A1B94628A5542C00832511 /* 魔王魂  ピアノ1-3ミ.mp3 */,
+				F6A1B94728A5542C00832511 /* 魔王魂  ピアノ1-4ファ.mp3 */,
+				F6A1B94528A5542C00832511 /* 魔王魂  ピアノ1-5ソ.mp3 */,
+				F6A1B94B28A5542D00832511 /* 魔王魂  ピアノ1-6ラ.mp3 */,
+				F6A1B94E28A5542D00832511 /* 魔王魂  ピアノ1-8ド.mp3 */,
+				F6A1B94F28A5542D00832511 /* 魔王魂  ピアノ1-7シ.mp3 */,
+				F6A1B95028A5542E00832511 /* 魔王魂  ピアノ1-Amコード.mp3 */,
+				F6A1B94828A5542C00832511 /* 魔王魂  ピアノ1-Cコード.mp3 */,
+				F6A1B94928A5542C00832511 /* 魔王魂  ピアノ1-Fコード.mp3 */,
+				F6A1B94A28A5542C00832511 /* 魔王魂  ピアノ1-Gコード.mp3 */,
+				F6EC624728A212C100D96EF3 /* 魔王魂  ピアノ2-6ラ.mp3 */,
+				F6EC624828A212C100D96EF3 /* 魔王魂  ピアノ2-2レ.mp3 */,
+				F6EC624A28A212C100D96EF3 /* 魔王魂  ピアノ2-4ファ.mp3 */,
+				F6EC624928A212C100D96EF3 /* 魔王魂  ピアノ2-3ミ.mp3 */,
+				F6EC621128A20C6500D96EF3 /* AppDelegate.swift */,
+				F6EC621328A20C6500D96EF3 /* SceneDelegate.swift */,
+				F6EC621528A20C6500D96EF3 /* ViewController.swift */,
+				F6A1B95D28A60D9E00832511 /* adpDSC_3882.jpg */,
+				F6EC621728A20C6500D96EF3 /* Main.storyboard */,
+				F6EC621D28A20C7700D96EF3 /* Assets.xcassets */,
+				F6EC621F28A20C7700D96EF3 /* LaunchScreen.storyboard */,
+				F6EC622228A20C7700D96EF3 /* Info.plist */,
+				F6EC621A28A20C6600D96EF3 /* random_piano.xcdatamodeld */,
+			);
+			path = random_piano;
+			sourceTree = "<group>";
+		};
+		F6EC622A28A20C7700D96EF3 /* random_pianoTests */ = {
+			isa = PBXGroup;
+			children = (
+				F6EC622B28A20C7700D96EF3 /* random_pianoTests.swift */,
+			);
+			path = random_pianoTests;
+			sourceTree = "<group>";
+		};
+		F6EC623428A20C7700D96EF3 /* random_pianoUITests */ = {
+			isa = PBXGroup;
+			children = (
+				F6EC623528A20C7700D96EF3 /* random_pianoUITests.swift */,
+				F6EC623728A20C7700D96EF3 /* random_pianoUITestsLaunchTests.swift */,
+			);
+			path = random_pianoUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F6EC620D28A20C6500D96EF3 /* random_piano */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F6EC623B28A20C7700D96EF3 /* Build configuration list for PBXNativeTarget "random_piano" */;
+			buildPhases = (
+				F6EC620A28A20C6500D96EF3 /* Sources */,
+				F6EC620B28A20C6500D96EF3 /* Frameworks */,
+				F6EC620C28A20C6500D96EF3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = random_piano;
+			productName = random_piano;
+			productReference = F6EC620E28A20C6500D96EF3 /* random_piano.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F6EC622628A20C7700D96EF3 /* random_pianoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F6EC623E28A20C7700D96EF3 /* Build configuration list for PBXNativeTarget "random_pianoTests" */;
+			buildPhases = (
+				F6EC622328A20C7700D96EF3 /* Sources */,
+				F6EC622428A20C7700D96EF3 /* Frameworks */,
+				F6EC622528A20C7700D96EF3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F6EC622928A20C7700D96EF3 /* PBXTargetDependency */,
+			);
+			name = random_pianoTests;
+			productName = random_pianoTests;
+			productReference = F6EC622728A20C7700D96EF3 /* random_pianoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F6EC623028A20C7700D96EF3 /* random_pianoUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F6EC624128A20C7700D96EF3 /* Build configuration list for PBXNativeTarget "random_pianoUITests" */;
+			buildPhases = (
+				F6EC622D28A20C7700D96EF3 /* Sources */,
+				F6EC622E28A20C7700D96EF3 /* Frameworks */,
+				F6EC622F28A20C7700D96EF3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F6EC623328A20C7700D96EF3 /* PBXTargetDependency */,
+			);
+			name = random_pianoUITests;
+			productName = random_pianoUITests;
+			productReference = F6EC623128A20C7700D96EF3 /* random_pianoUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F6EC620628A20C6500D96EF3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					F6EC620D28A20C6500D96EF3 = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					F6EC622628A20C7700D96EF3 = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = F6EC620D28A20C6500D96EF3;
+					};
+					F6EC623028A20C7700D96EF3 = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = F6EC620D28A20C6500D96EF3;
+					};
+				};
+			};
+			buildConfigurationList = F6EC620928A20C6500D96EF3 /* Build configuration list for PBXProject "random_piano" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F6EC620528A20C6500D96EF3;
+			productRefGroup = F6EC620F28A20C6500D96EF3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F6EC620D28A20C6500D96EF3 /* random_piano */,
+				F6EC622628A20C7700D96EF3 /* random_pianoTests */,
+				F6EC623028A20C7700D96EF3 /* random_pianoUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F6EC620C28A20C6500D96EF3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6A1B95728A5542E00832511 /* 魔王魂  ピアノ1-6ラ.mp3 in Resources */,
+				F6A1B95E28A60D9E00832511 /* adpDSC_3882.jpg in Resources */,
+				F6EC625028A212C200D96EF3 /* 魔王魂  ピアノ2-3ミ.mp3 in Resources */,
+				F6EC622128A20C7700D96EF3 /* LaunchScreen.storyboard in Resources */,
+				F6A1B95328A5542E00832511 /* 魔王魂  ピアノ1-4ファ.mp3 in Resources */,
+				F6A1B95A28A5542E00832511 /* 魔王魂  ピアノ1-8ド.mp3 in Resources */,
+				F6EC624F28A212C200D96EF3 /* 魔王魂  ピアノ2-2レ.mp3 in Resources */,
+				F6A1B95628A5542E00832511 /* 魔王魂  ピアノ1-Gコード.mp3 in Resources */,
+				F6EC621E28A20C7700D96EF3 /* Assets.xcassets in Resources */,
+				F6A1B95528A5542E00832511 /* 魔王魂  ピアノ1-Fコード.mp3 in Resources */,
+				F6EC625128A212C200D96EF3 /* 魔王魂  ピアノ2-4ファ.mp3 in Resources */,
+				F6A1B95C28A5542E00832511 /* 魔王魂  ピアノ1-Amコード.mp3 in Resources */,
+				F6A1B95828A5542E00832511 /* 魔王魂  ピアノ1-1ド.mp3 in Resources */,
+				F6A1B95428A5542E00832511 /* 魔王魂  ピアノ1-Cコード.mp3 in Resources */,
+				F6EC624C28A212C200D96EF3 /* 魔王魂  ピアノ2-5ソ.mp3 in Resources */,
+				F6A1B95128A5542E00832511 /* 魔王魂  ピアノ1-5ソ.mp3 in Resources */,
+				F6EC624D28A212C200D96EF3 /* 魔王魂  ピアノ2-7シ.mp3 in Resources */,
+				F6A1B95228A5542E00832511 /* 魔王魂  ピアノ1-3ミ.mp3 in Resources */,
+				F6EC624E28A212C200D96EF3 /* 魔王魂  ピアノ2-6ラ.mp3 in Resources */,
+				F6A1B95928A5542E00832511 /* 魔王魂  ピアノ1-2レ.mp3 in Resources */,
+				F6EC624B28A212C200D96EF3 /* 魔王魂  ピアノ2-1ド.mp3 in Resources */,
+				F6EC621928A20C6500D96EF3 /* Main.storyboard in Resources */,
+				F6A1B95B28A5542E00832511 /* 魔王魂  ピアノ1-7シ.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F6EC622528A20C7700D96EF3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F6EC622F28A20C7700D96EF3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F6EC620A28A20C6500D96EF3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6EC621C28A20C6600D96EF3 /* random_piano.xcdatamodeld in Sources */,
+				F6EC621628A20C6500D96EF3 /* ViewController.swift in Sources */,
+				F6EC621228A20C6500D96EF3 /* AppDelegate.swift in Sources */,
+				F6EC621428A20C6500D96EF3 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F6EC622328A20C7700D96EF3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6EC622C28A20C7700D96EF3 /* random_pianoTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F6EC622D28A20C7700D96EF3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6EC623628A20C7700D96EF3 /* random_pianoUITests.swift in Sources */,
+				F6EC623828A20C7700D96EF3 /* random_pianoUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F6EC622928A20C7700D96EF3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F6EC620D28A20C6500D96EF3 /* random_piano */;
+			targetProxy = F6EC622828A20C7700D96EF3 /* PBXContainerItemProxy */;
+		};
+		F6EC623328A20C7700D96EF3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F6EC620D28A20C6500D96EF3 /* random_piano */;
+			targetProxy = F6EC623228A20C7700D96EF3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F6EC621728A20C6500D96EF3 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F6EC621828A20C6500D96EF3 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F6EC621F28A20C7700D96EF3 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F6EC622028A20C7700D96EF3 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F6EC623928A20C7700D96EF3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F6EC623A28A20C7700D96EF3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F6EC623C28A20C7700D96EF3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = random_piano/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.ac.u-ryukyu.ie.e165712.random-piano";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F6EC623D28A20C7700D96EF3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = random_piano/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.ac.u-ryukyu.ie.e165712.random-piano";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F6EC623F28A20C7700D96EF3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.ac.u-ryukyu.ie.e165712.random-pianoTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/random_piano.app/random_piano";
+			};
+			name = Debug;
+		};
+		F6EC624028A20C7700D96EF3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.ac.u-ryukyu.ie.e165712.random-pianoTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/random_piano.app/random_piano";
+			};
+			name = Release;
+		};
+		F6EC624228A20C7700D96EF3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.ac.u-ryukyu.ie.e165712.random-pianoUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = random_piano;
+			};
+			name = Debug;
+		};
+		F6EC624328A20C7700D96EF3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.ac.u-ryukyu.ie.e165712.random-pianoUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = random_piano;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F6EC620928A20C6500D96EF3 /* Build configuration list for PBXProject "random_piano" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F6EC623928A20C7700D96EF3 /* Debug */,
+				F6EC623A28A20C7700D96EF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F6EC623B28A20C7700D96EF3 /* Build configuration list for PBXNativeTarget "random_piano" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F6EC623C28A20C7700D96EF3 /* Debug */,
+				F6EC623D28A20C7700D96EF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F6EC623E28A20C7700D96EF3 /* Build configuration list for PBXNativeTarget "random_pianoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F6EC623F28A20C7700D96EF3 /* Debug */,
+				F6EC624028A20C7700D96EF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F6EC624128A20C7700D96EF3 /* Build configuration list for PBXNativeTarget "random_pianoUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F6EC624228A20C7700D96EF3 /* Debug */,
+				F6EC624328A20C7700D96EF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		F6EC621A28A20C6600D96EF3 /* random_piano.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F6EC621B28A20C6600D96EF3 /* random_piano.xcdatamodel */,
+			);
+			currentVersion = F6EC621B28A20C6600D96EF3 /* random_piano.xcdatamodel */;
+			path = random_piano.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = F6EC620628A20C6500D96EF3 /* Project object */;
+}
